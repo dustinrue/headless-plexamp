@@ -1,6 +1,6 @@
 # Headless Plexamp Image Builder
 
-This repo contains routines to extend the base pi-gen system to build a custom Raspberry Pi OS image that contains [a headless Plexamp implementation](https://forums.plex.tv/t/future-of-plexamp-on-raspberry-pi/717577/161). Once configured you will be able to use a Pi as a Plexamp player that you can control remotely. This feature is similar to Spotify or Tidal Connect.
+This repo contains routines to extend the base pi-gen system to build a custom Raspberry Pi OS image that contains [a headless Plexamp implementation](https://forums.plex.tv/t/plexamp-on-the-raspberry-pi/791500). Once configured you will be able to use a Pi as a Plexamp player that you can control remotely. This feature is similar to Spotify or Tidal Connect.
 
 You can either build the image yourself or simply download a prebuilt image from the releases page.
 
