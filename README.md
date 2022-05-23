@@ -4,6 +4,8 @@ This repo contains routines to extend the base pi-gen system to build a custom R
 
 You can either build the image yourself or simply download a prebuilt image from the releases page.
 
+Looking to run Plex Media Server on a Pi? Try my other project - https://github.com/dustinrue/PiPlex.
+
 ## Requirements
 
 As required by the Plexamp software, this is a 64bit image so you must be using a Pi 3 B+ or newer system. You will also need some kind of dac attached to the Pi. As mentioned in the announcement blog post, you can use this https://www.aliexpress.com/item/4001260534656.html or https://www.amazon.com/gp/product/B07VSFBT82/. The second link will require an adapter.
